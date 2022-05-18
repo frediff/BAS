@@ -27,4 +27,6 @@ give a command for the BAS to print the books which have fallen below the thresh
 number of copies to be procured along with the full address of the stockist.
 
 ## The login manager
+<center>
 ![image](./login_screenshot.png)
+</center>
