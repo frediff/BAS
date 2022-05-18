@@ -30,3 +30,9 @@ number of copies to be procured along with the full address of the stockist.
 <p align="center">
 <img src="./login_screenshot.png" />
 </p>
+
+## The BAS greeter welcoming the user
+<p align="center">
+<img src="./bas_screenshot.png" />
+</p>
+
