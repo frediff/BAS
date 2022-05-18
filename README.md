@@ -26,4 +26,5 @@ maintain the details of a stockist (vendor) of the book. Every day the book shop
 give a command for the BAS to print the books which have fallen below the threshold and the
 number of copies to be procured along with the full address of the stockist.
 
-![image](./login_screenshot.png)
+## The login manager
+<center>![image](./login_screenshot.png)</center>
